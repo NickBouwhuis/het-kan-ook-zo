@@ -74,7 +74,7 @@
 			}
 			?>
 		</p>
-		<p id="het-kan-ook-zo-olibol">
+		<p id="het-kan-ook-zo-oliebol">
 			<a href="https://www.kpn.com/service/internet/ipv6.htm">Het</a>
 			<a href="https://www.delta.nl/klantenservice/internet-en-wifi/ipv6/">kan</a>
 			<a href="https://www.ziggo.nl/klantenservice/internet-wifi/ipv6-bij-ziggo">ook</a>
