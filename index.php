@@ -86,6 +86,25 @@
 			<a href="https://stats.labs.apnic.net/ipv6/AS25596?c=NL&p=1&v=1&w=30&x=1">z</a><a href="https://stats.labs.apnic.net/ipv6/AS207176?c=NL&p=1&v=1&w=30&x=1">o</a>.
 		</p>
 	</div>
+	<!-- Matomo -->
+	<script>
+		var _paq = window._paq = window._paq || [];
+		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function() {
+			var u = "//stats.it53.nl/";
+			_paq.push(['setTrackerUrl', u + 'matomo.php']);
+			_paq.push(['setSiteId', '8']);
+			var d = document,
+				g = d.createElement('script'),
+				s = d.getElementsByTagName('script')[0];
+			g.async = true;
+			g.src = u + 'matomo.js';
+			s.parentNode.insertBefore(g, s);
+		})();
+	</script>
+	<!-- End Matomo Code -->
 </body>
 
 </html>
