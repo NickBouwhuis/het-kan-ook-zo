@@ -105,6 +105,7 @@
 		})();
 	</script>
 	<!-- End Matomo Code -->
+	<script async src="https://umami.0x5e.eu/script.js" data-website-id="36e790a8-42d4-4582-9e3d-3ab9942a8a4a"></script>
 </body>
 
 </html>
